@@ -18,7 +18,7 @@
 <h2 align="center">
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,linkedin,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,linkedin,git,cpp,ts)](https://skillicons.dev)
 
 <h2 align="center">
 </h2>
