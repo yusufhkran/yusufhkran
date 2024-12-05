@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Mobile Devoloper 
-- 🔭 I’m currently working on React-Native 
+- 🔭 I’m currently working DevOps
 - 📫 How to reach me: yusufhkrann@gmail.com
 <h3 align="left">Connect with me:</h3>
 <h2 align="center">
